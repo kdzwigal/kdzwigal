@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Kamil 👋
 
-Software Engineering student at **42 Warsaw** with a strong focus on low-level systems programming, backend architecture, and data engineering. I like understanding how things work under the hood—from memory management in C to scalable cloud pipelines.
-- 🎓 Education: **B.Eng. in Computer Science @ WWSI (3rd semester)** & **42 Warsaw Common Core**
+Computer Science Engineering student (3rd semester) at **WWSI** & Software Engineering cadet at **42 Warsaw**. I focus on Python backend architecture, low-level systems programming, and data engineering—understanding how things work under the hood, from memory management in C to scalable APIs and cloud data pipelines.
+
+- 🎓 Education: **42 Warsaw Common Core** & **B.Eng. in Computer Science @ WWSI (3rd semester)**
+- 🐍 Python Focus: **FastAPI, Pydantic, advanced OOP, custom package distribution (`Poetry`/`pip`), and data pipelines (`Pandas`, `NumPy`, `Polars`)**
 - 🔭 Currently working on: **[syrenka.me](https://syrenka.me)** & **42 Common Core curriculum**
-- 🌱 Exploring: **Data Engineering (Polars, Pandas), PostGIS, and Cloud Infrastructure**
+- 🌱 Exploring: **Data Engineering, PostGIS, and Cloud Infrastructure (AWS, Docker)**
 - 🏆 Recent milestone: **2nd Place at Warsaw Open Data Hackathon** (Challenge: *Warszawa – złap oddech!*)
-- 💬 Ask me about: **C, Python, FastAPI, SQL, Linux, and Embedded/3D printing projects**
+- 💬 Ask me about: **Python, C, FastAPI, SQL, Linux, and Embedded/3D printing projects**
 - 📫 Reach me at: **[kamil.dzwigala@gmail.com]** | **[LinkedIn](https://www.linkedin.com/in/kamil-d%C5%BAwiga%C5%82a-65b1a33a8)**
 
 ---
