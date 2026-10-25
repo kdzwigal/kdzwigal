@@ -57,11 +57,10 @@ Software Engineering student at **42 Warsaw** with a strong focus on low-level s
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[CommonCore42](https://github.com/kdzwigal/CommonCore42)** | Monorepo of low-level C with Custom implementations of standard C library functions (`libft`), formatted output (`ft_printf`), and buffered file reading (`get_next_line`), Python (Intensive 10-module series covering modern Python engineering: OOP, functional programming, custom package distribution, NumPy/Pandas data pipelines, and Pydantic validation.), and system administration projects from the 42 Warsaw curriculum. | `C`, `Python`, `Shell`, `Algorithms` |
 | **[syrenka.me](https://syrenka.me)** | Warsaw event & urban data portal (2nd place @ Warsaw Open Data Hackathon). Built the backend pipeline integrating municipal APIs & weather data with AWS RDS. | `Python`, `FastAPI`, `PostgreSQL`, `AWS` |
 | **[kdwwsi.onrender.com](https://kdwwsi.onrender.com/)** | Schedule planner and timetable tool built for the 3rd semester of B.Eng. Computer Science studies at WWSI. | `Python`, `Web`, `Automation` |
 | **[a_maze_ing](https://github.com/k-bar/a_maze_ing)** | Maze generation and terminal visualization package implementing Kruskal's, Prim's, and Wilson's algorithms with pathfinding solvers. | `Python`, `OOP`, `Algorithms` |
-| **[push_swap](https://github.com/kdzwigal/PUSH_SWAP_42)** | Highly optimized sorting algorithm in C operating on two stacks with a strictly limited instruction set. | `C`, `Data Structures`, `Complexity` |
-| **[42 Core Library](https://github.com/kdzwigal/libft)** | Custom implementations of standard C library functions (`libft`), formatted output (`ft_printf`), and buffered file reading (`get_next_line`). | `C`, `Memory Management`, `Makefile` |
 
 ---
 
